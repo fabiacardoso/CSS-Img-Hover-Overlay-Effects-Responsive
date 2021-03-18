@@ -1,4 +1,4 @@
-# CSS-Img-Hover-Overlay-Effects-Responsive
+# CSS Imagem Hover Overlay Effects - Responsive Design
 
 Prévia
 
